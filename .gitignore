@@ -1,0 +1,4 @@
+run_azure_training.py
+train_jpg/
+*.yaml
+*.yml

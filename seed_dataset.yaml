@@ -1,0 +1,9 @@
+path: C:/Users/nithe/PythonProjects/SeedCounter_PMLab/seed_dataset
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['seed']
